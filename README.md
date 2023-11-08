@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning about collaboration with git and github. 🤔 I’m looking for help with it.
+
 <!--
 **antoniogd01/antoniogd01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
